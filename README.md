@@ -3,8 +3,7 @@
 I'm Rahul Gurung.
 
 - 🔭 I’m currently working at Walmart.
-- 🌱 I’m currently learning JavaScript.
-<!-- - 👯 I’m looking to collaborate on [Yourtube](https://github.com/gurrrung/YourTube). -->
+- 🌱 I’m currently learning JavaScript.<!-- - 👯 I’m looking to collaborate on [Yourtube](https://github.com/gurrrung/YourTube). -->
 - 📫 How to reach me: gurrrung(at)gmail.com or gurungrahul2(at)gmail.com
 - ⚡ Fun fact: I love running, hiking and fishing.
 
