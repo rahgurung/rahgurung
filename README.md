@@ -7,5 +7,3 @@ I'm Rahul Gurung.
 - 📫 How to reach me: hi(at)rahulgurung.com
 - ⚡ Fun fact: I love running, hiking and fishing.
 
-
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=gurrrung&show_icons=true)
